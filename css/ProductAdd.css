@@ -1,0 +1,92 @@
+.add_category{
+    width: 30px;
+}
+#title_product{
+    width: 155px;
+    height: 600px;
+    float: left;
+}
+#form_product{
+    width:250px;
+    height: 300px;
+    margin-left: 0px;
+    float: left;
+}
+#title_product span{
+    width: 150px;
+    float: left;
+    margin-top: 22px;
+    margin-right: 0px;
+    text-align:right;
+}
+#form_product select{
+    margin: 20px 10px 0 0;
+    width: 186px;
+}
+#form_product input[type="text"]{
+    margin: 20px 10px 0px 0;
+    width: 183px;
+}
+#eror_grup{
+
+    background-color: #ADFF2F;
+    float: left;
+    padding-bottom: 20px;
+    width: 270px;
+}
+#exit_edit{
+    height: 20px;
+    width: 20px;
+    float:right;
+    background-image: url(../images/44.png);
+    cursor: pointer;
+}
+input[name='add']{
+    width: 27px;
+}
+input[name='select_product']{
+    float: right;
+    width: 130px;
+    margin: 15px 16px;
+}
+input[name='search_product']{   
+    width: 212px; 
+    float: left;
+}
+input[name='search_img']{   
+    background-image: url(../images/find.png); 
+    width: 20px; 
+}
+#edit_info{
+    border:1px double #597DA3 ;
+    height: 20px;
+    position: absolute;
+}
+#edit_info input[type="text"]{
+    float: left;
+}
+table input[type="button"]{
+    width: 30px;
+    float: left;
+}
+#summa_info{
+    height: 100px;
+    width: 380px;
+    background-color: white;
+    margin: 10px auto;
+    padding: 10px 10px;
+    font-size: 1.5em;
+}
+#summa_z{
+    width: 380px;
+}
+input[type="number"]{
+    width:50px;
+    float:left;
+}
+.sum_z{
+    text-align: center;
+}
+.sum_p{
+    text-align: center;
+}
